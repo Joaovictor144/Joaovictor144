@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joaovictor144
+- 👀 I’m interested in ... Python, Ruby, JS , HTML.
+- 🌱 I’m currently learning ... Python .
+- 💞️ I’m looking to collaborate on ... Projects 
+- 📫 How to reach me ... jvm144@icloud.com
