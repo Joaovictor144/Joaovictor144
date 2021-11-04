@@ -1,4 +1,12 @@
-<h2>Olá, Sou o João Victor Vieira</h2>
+## Olá,Sou o João Victor! 
+
+<!-- My name is Felipe Santos and I absolutely love Technology!  -->
+
+- 🌎 I'm from Jaraguá-GO / Brazil
+- 💻 **Languages:** JavaScript❤️, Php , and looking forward to learn even more!
+- 🔧 **Tools:** Visual Studio Code, GitHub, WebStorm
+- 🎖 **Skill:** React❤️, React Native(studying), Vuejs, Laravel
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
   <a href="https://github.com/Joaovictor144">
